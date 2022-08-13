@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks for visitng 😄
 
-Check out My PortFolio (its old will update soon) [Link text Here](https://nkb-bd.github.io/)  
+Check out [My PortFolio](https://nkb-bd.github.io/)  (its old will update soon) 
 <!--
 **nkb-bd/nkb-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
