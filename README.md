@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Lukman%20Nakib&fontSize=60&fontAlignY=35&fontColor=ffffff" />
 
-### Full-Stack Developer · SaaS Builder · WordPress & Laravel
+### Full-Stack Developer  · WordPress · Laravel
 
 Building **practical software** with clean UI and scalable architecture.
 
@@ -11,11 +11,11 @@ Building **practical software** with clean UI and scalable architecture.
 </div>
 
 ---
-
-## 🧠 What I Do
-- Build **Micro-SaaS & internal tools**
-- Develop **WordPress plugins**
-- Design **clean, maintainable architectures**
+## 👨‍💻 About Me
+I’m a **full-stack developer** focused on practical tools and clean code :
+- WordPress plugins with thousands of active installs
+- Scalable SaaS tools with clean backend and smooth UX
+- Laravel, Filament admin dashboards, and Vue interfaces
 
 ## 🛠 Stack
 **Backend:** Laravel, Filament, PHP, MySQL, Redis  
@@ -23,15 +23,12 @@ Building **practical software** with clean UI and scalable architecture.
 **Ecosystem:** WordPress, REST APIs, GitHub  
 **AI:** Practical LLM integrations (auto-tagging, automation)
 
-## 🚀 Currently Building
-- **WP Plugin Sync Manager** – manage plugins across multiple sites
-- **Content Vault (Mini SaaS)** – links, notes, files with smart tagging
-- **Shopify Apps** – WhatsApp-first tools for Asian markets
 
-## 📊 GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=nkb-bd&show_icons=true&hide_border=true&theme=transparent" />
+
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/nkb-bd&label=Visitors&labelColor=000000&countColor=00F7F7&style=flat" />
+
 
 ---
 
-> *Good software is quiet. It just works.*
 
