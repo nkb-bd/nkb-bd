@@ -1,113 +1,147 @@
 <div align="center">
 
-<!-- Switch View Button -->
-<a href="https://github.com/nkb-bd/nkb-bd/blob/unique-view/README.md">
-  <img src="https://img.shields.io/badge/🎨_SWITCH_TO-UNIQUE_VIEW-00F7F7? style=for-the-badge&labelColor=000000" alt="Switch View"/>
-</a>
-
-<br/><br/>
-
-# 👋 Hello, I'm NKB
-
-### Full-Stack Developer | Problem Solver | Tech Enthusiast
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-nkb--bd. github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nkb-bd.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-nkb--bd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nkb-bd)
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NKB-BD&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 </div>
-
----
-
-<div align="center">
-
-## 🚀 About Me
-
-</div>
-
-```
-🎯 Passionate about creating elegant solutions to complex problems
-💡 Turning ideas into reality through clean, efficient code
-🌱 Constantly learning and evolving with technology
-🤝 Open to collaboration and innovative projects
-```
-
-<div align="center">
-
-## 💻 Tech Stack & Skills
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express. js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC? style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192? style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=nkb-bd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/? username=nkb-bd&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/? user=nkb-bd&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 What Makes Me Unique
-
-| 💡 Innovation | 🔧 Craftsmanship | 🌐 Versatility | 🤝 Collaboration |
-|: ---:|:---:|:---:|:---:|
-| Creative problem-solving with modern tech | Writing clean, maintainable code | Full-stack expertise | Team player & mentor |
-
-</div>
-
----
-
-<div align="center">
-
-## 📬 Let's Connect
-
-**Open for opportunities, collaborations, and interesting conversations!**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-0A66C2?style=for-the-badge)](https://nkb-bd.github.io/)
-[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-</div>
-
----
 
 <div align="center">
   
-### 💭 *"Code is poetry written in logic"*
+# 🚀 FULL-STACK DEVELOPER | CODE ARCHITECT | TECH INNOVATOR
 
-![Profile Views](https://komarev.com/ghpvc/?username=nkb-bd&color=58A6FF&style=for-the-badge&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab. com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Transforming+Ideas+Into+Digital+Reality;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<!-- Switch View Button at Bottom -->
-<a href="https://github.com/nkb-bd/nkb-bd/blob/unique-view/README. md">
-  <img src="https://img.shields.io/badge/🎨_TRY-UNIQUE_VIEW-00F7F7?style=for-the-badge&labelColor=000000&animation=pulse" alt="Switch to Unique View"/>
-</a>
+<div align="center">
+
+### 🌟 [ [**EXPLORE MY PORTFOLIO**](https://nkb-bd.github.io/) ] 🌟
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ MY SUPERPOWERS
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 FRONTEND MASTERY
+```javascript
+const frontend = {
+  languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+  frameworks: ['React', 'Next.js', 'Vue.js'],
+  styling: ['TailwindCSS', 'Styled-Components', 'SASS'],
+  passion: 'Pixel-perfect UI/UX ✨'
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ BACKEND WIZARDRY
+```python
+backend = {
+    'languages': ['Node.js', 'Python', 'PHP'],
+    'frameworks': ['Express', 'FastAPI', 'Django'],
+    'databases': ['MongoDB', 'PostgreSQL', 'Redis'],
+    'superpower': 'Scalable Architecture 🚀'
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 WHAT SETS ME APART
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<div align="center">
+
+| 🧠 **STRATEGIC THINKING** | 💎 **CODE QUALITY** | 🔥 **FAST EXECUTION** | 🌈 **CREATIVE SOLUTIONS** |
+|:---:|: ---:|:---:|:---:|
+| Architecting scalable systems | Clean, documented, testable | Rapid prototyping & delivery | Outside-the-box problem solving |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📈 PERFORMANCE METRICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api? username=nkb-bd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com? user=nkb-bd&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7&sideLabels=ffffff&dates=ffffff" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkb-bd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph? username=nkb-bd&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=ffffff" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,mongodb,postgres,git,github,vscode,figma&perline=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 ACHIEVEMENTS & HIGHLIGHTS
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nkb-bd&theme=radical&no-frame=true&no-bg=true&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 LET'S BUILD SOMETHING AMAZING TOGETHER
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+</div>
+
+<div align="center">
+
+### 📫 **CONNECT WITH ME**
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00F7F7?style=for-the-badge&logoColor=white)](https://nkb-bd.github.io/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 ***"The best code is the code that solves real problems elegantly"***
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnkb-bd&label=VISITORS&labelColor=%23000000&countColor=%2300F7F7&style=flat-square)
 
 </div>
